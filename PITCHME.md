@@ -74,7 +74,6 @@
 
 ![Tampilan Home](/assets/images/01-epormas-web-tampilan-awal.png)
 
-+++
 
 ![Tampilan Home](/assets/images/02-epormas-web-tampilan-awal.png)
 
