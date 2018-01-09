@@ -72,10 +72,11 @@
 
 +++
 
-![Tampilan Home](/assets/images/01-epormas-web-tampilan-awal.png)
+![Tampilan Home](/assets/image/01-epormas-web-tampilan-awal.png)
 
++++
 
-![Tampilan Home](/assets/images/02-epormas-web-tampilan-awal.png)
+![Tampilan Home](/assets/image/02-epormas-web-tampilan-awal.png)
 
 +++
 
@@ -89,11 +90,11 @@
 
 +++
 
-![Contoh Gallery Foto](/assets/images/03-epormas-web-contoh-galery-foto.png)
+![Contoh Gallery Foto](/assets/image/03-epormas-web-contoh-galery-foto.png)
 
 +++
 
-![Contoh Gallery Foto](/assets/images/04-epormas-web-contoh-galery-foto.png)
+![Contoh Gallery Foto](/assets/image/04-epormas-web-contoh-galery-foto.png)
 
 +++
 
@@ -108,11 +109,11 @@
 
 +++
 
-![Tampilan Map](/assets/images/05-epormas-web-map.png)
+![Tampilan Map](/assets/image/05-epormas-web-map.png)
 
 +++
 
-![Tampilan Map](/assets/images/06-epormas-web-map.png)
+![Tampilan Map](/assets/image/06-epormas-web-map.png)
 
 +++
 
@@ -126,11 +127,11 @@
 
 +++
 
-![Tampilan Tabel Laporan Warga](/assets/images/07-epormas-web-tabel-laporan-warga.png)
+![Tampilan Tabel Laporan Warga](/assets/image/07-epormas-web-tabel-laporan-warga.png)
 
 +++
 
-![Tampilan Tabel Laporan Warga](/assets/images/08-epormas-web-tabel-laporan-warga.png)
+![Tampilan Tabel Laporan Warga](/assets/image/08-epormas-web-tabel-laporan-warga.png)
 
 +++
 
@@ -144,11 +145,11 @@
 
 +++
 
-![Tampilan Buat Laporan warga](/assets/images/10-epormas-web-buat-laporan-warga-banten.png)
+![Tampilan Buat Laporan warga](/assets/image/10-epormas-web-buat-laporan-warga-banten.png)
 
 +++
 
-![Tampilan Buat Laporan warga](/assets/images/11-epormas-web-buat-laporan-warga-banten.png)
+![Tampilan Buat Laporan warga](/assets/image/11-epormas-web-buat-laporan-warga-banten.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-right]
@@ -196,7 +197,7 @@
 
 +++
 
-![Aplikasi Android](/assets/images/27-epormas-android-install-apk.png)
+![Aplikasi Android](/assets/image/27-epormas-android-install-apk.png)
 
 +++
 
@@ -211,7 +212,7 @@
 +++
 
 
-![Pertama Baca Device](/assets/images/28-epormas-android-awal-baca-device.png)
+![Pertama Baca Device](/assets/image/28-epormas-android-awal-baca-device.png)
 
 +++
 
@@ -225,7 +226,7 @@
 
 +++
 
-![Baca Device](/assets/images/29-epormas-android-baca-device.png)
+![Baca Device](/assets/image/29-epormas-android-baca-device.png)
 
 +++
 
@@ -239,7 +240,7 @@
 
 +++
 
-![Registrasi NIK](/assets/images/30-epormas-android-registrasi-nik.png)
+![Registrasi NIK](/assets/image/30-epormas-android-registrasi-nik.png)
 
 +++
 
@@ -253,7 +254,7 @@
 
 +++
 
-![Registrasi Nomor Handphone](/assets/images/31-epormas-android-registrasi-no-hp.png)
+![Registrasi Nomor Handphone](/assets/image/31-epormas-android-registrasi-no-hp.png)
 
 +++
 
@@ -267,7 +268,7 @@
 
 +++
 
-![Registrasi Sekarang](/assets/images/32-epormas-android-registrasi.png)
+![Registrasi Sekarang](/assets/image/32-epormas-android-registrasi.png)
 
 +++
 
@@ -280,7 +281,7 @@
 
 +++
 
-![Registrasi Upload Foto User](/assets/images/33-epormas-android-registrasi-upload-foto-user.png)
+![Registrasi Upload Foto User](/assets/image/33-epormas-android-registrasi-upload-foto-user.png)
 
 +++
 
@@ -294,7 +295,7 @@
 
 +++
 
-![Registrasi Upload Foto User](/assets/images/34-epormas-android-menu.png)
+![Registrasi Upload Foto User](/assets/image/34-epormas-android-menu.png)
 
 +++
 
@@ -307,7 +308,7 @@
 
 +++
 
-![Menu Home](/assets/images/35-epormas-android-menu-home.png)
+![Menu Home](/assets/image/35-epormas-android-menu-home.png)
 
 +++
 
@@ -321,7 +322,7 @@
 
 +++
 
-![Menu Form Online](/assets/images/36-epormas-android-form-online.png)
+![Menu Form Online](/assets/image/36-epormas-android-form-online.png)
 
 +++
 
@@ -334,7 +335,7 @@
 
 +++
 
-![Menu Profile User](/assets/images/37-epormas-android-biodata.png)
+![Menu Profile User](/assets/image/37-epormas-android-biodata.png)
 
 +++
 
@@ -347,7 +348,7 @@
 
 +++
 
-![Biodata User](/assets/images/38-epormas-android-profile-biodata.png)
+![Biodata User](/assets/image/38-epormas-android-profile-biodata.png)
 
 +++
 
@@ -360,7 +361,7 @@
 
 +++
 
-![Laporan User](/assets/images/39-epormas-android-profil-laporan.png)
+![Laporan User](/assets/image/39-epormas-android-profil-laporan.png)
 
 +++
 
@@ -373,7 +374,7 @@
 
 +++
 
-![Menu Semua Laporan](/assets/images/40-epormas-android-menu-semua-laporan.png)
+![Menu Semua Laporan](/assets/image/40-epormas-android-menu-semua-laporan.png)
 
 +++
 
@@ -386,7 +387,7 @@
 
 +++
 
-![Menu Draft](/assets/images/41-epormas-android-draft.png)
+![Menu Draft](/assets/image/41-epormas-android-draft.png)
 
 +++
 
@@ -400,7 +401,7 @@
 
 +++
 
-![Menu Offline](/assets/images/42-epormas-android-form-offline.png)
+![Menu Offline](/assets/image/42-epormas-android-form-offline.png)
 
 +++
 
@@ -413,7 +414,7 @@
 
 +++
 
-![Menu Social Media](/assets/images/43-epormas-android-socialmedia.png)
+![Menu Social Media](/assets/image/43-epormas-android-socialmedia.png)
 
 +++
 
