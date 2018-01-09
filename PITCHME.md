@@ -4,7 +4,7 @@
 ### &
 ### Banten<span class="gold">Dev</span>
 <br>
-<span class="aside">Dengan Bangga Mempersembahkan</span>
+<span class="gold">Dengan Bangga Mempersembahkan</span>
 
 ---
 
@@ -361,6 +361,6 @@
 
 
 ### SEKIAN
-# Dinas <span class="gold">KominfoST</span>
-## &
-## Banten<span class="gold">Prov</span>
+## Dinas <span class="gold">KominfoST</span>
+### &
+### Banten<span class="gold">Prov</span>
