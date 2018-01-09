@@ -1,8 +1,8 @@
 @title[Cover]
 
-# Dinas <span class="gold">KominfoST</span>
-## &
-## Banten<span class="gold">Dev</span>
+## Dinas <span class="gold">KominfoST</span>
+### &
+### Banten<span class="gold">Dev</span>
 <br>
 <span class="aside">Dengan Bangga Mempersembahkan</span>
 
@@ -98,6 +98,10 @@
 
 +++
 
+![Contoh Gallery Foto](/assets/image/05-epormas-web-contoh-galery-foto.png)
+
++++
+
 @title[Tampilan Map]
 
 ### <span class="gold">Menu Map</span>
@@ -109,11 +113,11 @@
 
 +++
 
-![Tampilan Map](/assets/image/05-epormas-web-map.png)
+![Tampilan Map](/assets/image/06-epormas-web-map.png)
 
 +++
 
-![Tampilan Map](/assets/image/06-epormas-web-map.png)
+![Tampilan Map](/assets/image/07-epormas-web-map.png)
 
 +++
 
@@ -127,11 +131,11 @@
 
 +++
 
-![Tampilan Tabel Laporan Warga](/assets/image/07-epormas-web-tabel-laporan-warga.png)
+![Tampilan Tabel Laporan Warga](/assets/image/08-epormas-web-tabel-laporan-warga.png)
 
 +++
 
-![Tampilan Tabel Laporan Warga](/assets/image/08-epormas-web-tabel-laporan-warga.png)
+![Tampilan Tabel Laporan Warga](/assets/image/09-epormas-web-tabel-laporan-warga.png)
 
 +++
 
@@ -197,7 +201,7 @@
 
 +++
 
-![Aplikasi Android](/assets/image/27-epormas-android-install-apk.png)
+![Aplikasi Android](/assets/image/12-epormas-android-install-apk.png)
 
 +++
 
@@ -212,7 +216,7 @@
 +++
 
 
-![Pertama Baca Device](/assets/image/28-epormas-android-awal-baca-device.png)
+![Pertama Baca Device](/assets/image/13-epormas-android-awal-baca-device.png)
 
 +++
 
@@ -226,62 +230,7 @@
 
 +++
 
-![Baca Device](/assets/image/29-epormas-android-baca-device.png)
-
-+++
-
-@title[Tampilan Registrasi]
-
-### <span class="gold">Registrasi NIK</span>
-<span style="font-size:1.0em; color:white">(Sebelumnnya User Sudah Melakukan Registarsi Dengan NIK)</span>
-
-<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
-@fa[arrow-down]
-
-+++
-
-![Registrasi NIK](/assets/image/30-epormas-android-registrasi-nik.png)
-
-+++
-
-@title[Tampilan Registrasi]
-
-### <span class="gold">Registrasi Nomor Handphone</span>
-<span style="font-size:1.0em; color:white">(Sebelumnnya User Sudah Melakukan Registrasi Dengan Nomor Handphone)</span>
-
-<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
-@fa[arrow-down]
-
-+++
-
-![Registrasi Nomor Handphone](/assets/image/31-epormas-android-registrasi-no-hp.png)
-
-+++
-
-@title[Tampilan Registrasi]
-
-### <span class="gold">Registrasi Sekarang dan Upload Foto</span>
-<span style="font-size:1.0em; color:white">(User Belum Melakukan Registrasi)</span>
-
-<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
-@fa[arrow-down]
-
-+++
-
-![Registrasi Sekarang](/assets/image/32-epormas-android-registrasi.png)
-
-+++
-
-@title[Tampilan Registrasi]
-
-### <span class="gold">Upload Foto</span>
-
-<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
-@fa[arrow-down]
-
-+++
-
-![Registrasi Upload Foto User](/assets/image/33-epormas-android-registrasi-upload-foto-user.png)
+![Baca Device](/assets/image/14-epormas-android-baca-device.png)
 
 +++
 
@@ -295,20 +244,7 @@
 
 +++
 
-![Registrasi Upload Foto User](/assets/image/34-epormas-android-menu.png)
-
-+++
-
-@title[Konten Menu]
-
-### <span class="gold">Menu Home</span>
-
-<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
-@fa[arrow-down]
-
-+++
-
-![Menu Home](/assets/image/35-epormas-android-menu-home.png)
+![Menu Home](/assets/image/15-epormas-android-menu-home.png)
 
 +++
 
@@ -322,7 +258,7 @@
 
 +++
 
-![Menu Form Online](/assets/image/36-epormas-android-form-online.png)
+![Menu Form Online](/assets/image/16-epormas-android-form-online.png)
 
 +++
 
@@ -335,7 +271,7 @@
 
 +++
 
-![Menu Profile User](/assets/image/37-epormas-android-biodata.png)
+![Menu Profile User](/assets/image/17-epormas-android-biodata.png)
 
 +++
 
@@ -348,7 +284,7 @@
 
 +++
 
-![Biodata User](/assets/image/38-epormas-android-profile-biodata.png)
+![Biodata User](/assets/image/18-epormas-android-profile-biodata.png)
 
 +++
 
@@ -361,7 +297,7 @@
 
 +++
 
-![Laporan User](/assets/image/39-epormas-android-profil-laporan.png)
+![Laporan User](/assets/image/19-epormas-android-profil-laporan.png)
 
 +++
 
@@ -374,7 +310,7 @@
 
 +++
 
-![Menu Semua Laporan](/assets/image/40-epormas-android-menu-semua-laporan.png)
+![Menu Semua Laporan](/assets/image/20-epormas-android-menu-semua-laporan.png)
 
 +++
 
@@ -387,7 +323,7 @@
 
 +++
 
-![Menu Draft](/assets/image/41-epormas-android-draft.png)
+![Menu Draft](/assets/image/21-epormas-android-draft.png)
 
 +++
 
@@ -401,7 +337,7 @@
 
 +++
 
-![Menu Offline](/assets/image/42-epormas-android-form-offline.png)
+![Menu Offline](/assets/image/22-epormas-android-form-offline.png)
 
 +++
 
@@ -414,7 +350,11 @@
 
 +++
 
-![Menu Social Media](/assets/image/43-epormas-android-socialmedia.png)
+![Menu Social Media](/assets/image/23-epormas-android-socialmedia.png)
+
++++
+
+![Menu Social Media](/assets/image/24-epormas-android-socialmedia.png)
 
 +++
 
