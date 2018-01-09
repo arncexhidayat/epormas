@@ -1,164 +1,426 @@
-### Tim Banten Development
+@title[Cover]
 
-##### Pengantar Praktis Markdown Presentasi Online
-
----
-@title[PITCHME.md]
-
-#### GitPitch mengubah <span class="gold">PITCHME.md</span> menjadi
-#### interactive online and offline slideshows.
+# Dinas <span class="gold">KominfoST</span>
+## &
+## Banten<span class="gold">Dev</span>
 <br>
-<span class="aside">Just like this one...</span>
----
-#### Tidak lagi <span class="gray">Menggunakan Keynote</span>.
-#### Tidak lagi <span class="gray">Menggunakan Powerpoint</span>.
-<br>
-#### Menulis dengan <span class="gold">Markdown</span>.
-#### Kemudian  <span class="gold">Git-Commit di Github</span>.
+<span class="gold">Dengan Bangga Mempersembahkan</span>
+
 ---
 
-@title[Fork Repository]
+@title[Introduction]
 
-#### Membuat slideshow konten dengan GitHub Flavored Markdown.
-#### Pada repository Pemerintah Provinsi Banten.
+## Aplikasi <span class="gold">Epormas</span>
 
-Step 1. clone repository github
-> https://github.com/bantenprov/presentasi-online
+---
 
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+@title[Epormas]
+
+### <span class="gold">Tentang Aplikasi Epormas</span>
+
+- Epormas adalah aplikasi berbasis Web dan Android, untuk membantu pemerintah Provinsi Banten dalam mengelola setiap pengaduan masyarakat. |
+- Yang semula pengaduan dilakukan secara manual, sekarang bisa dilakukan secara online. |
+
+---
+
+@title[Features]
+
+### <span class="gold">Epormas Features</span>
+
+- Mudah digunakan oleh masyarakat Provinsi Banten. |
+- Tampilan yang menarik. |
+- Masyarakat dapat melakukan pengaduan secara online. |
+
+---
+
+@title[Tujuan]
+
+### <span class="gold">Tujuan Aplikasi Epormas</span>
+
+- Untuk mempermudah masyarakat Provinsi Banten dalam setiap pengaduan, seperti masalah Jalan Raya, Pendidikan, Jembatan, Pariwisata, Permukiman dan Lahan, Gedung dan Pemerintahan, Pemuda dan Olahraga, dan Kesehatan. |
+- Untuk mempermudah pemerintah Provinsi Banten dalam mengelola setiap pengaduan masyarakat. |
+
+---
+
+@title[Epormas Web]
+
+## Epormas <span class="gold">Web</span>
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
+
 +++
-@title[Buat branch]
 
-Step 2. Membuat branch untuk presentasi anda
-```shell
-$ git checkout -b NAMA-PRESESNTASI-ANDA .
-```
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+@title[Menu dan Cara Penggunaan]
+
+### <span class="gold">Menu dan Cara Penggunaan</span>
+
+- Untuk mengakses Aplikasi Epormas web, dengan cara membuka browser IE, Mozilla Firefox atau yang lainnya dengan menulis url 
+  http://epormas-01.dev.bantenprov.go.id sehingga akan menampilkan konten menu.
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
+
 +++
-@title[Konten Slideshow]
 
-Step 3. Membuat file PITCHME.md
-```
-# Hello, World!  ---  ## The End.
-```
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+@title[Tampilan Home Epormas]
+
+### <span class="gold">Menu Home</span>
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
-#VSLIDE
-Step 4. Commit di Github
-```shell
-$ git add PITCHME.md
-$ git commit -m "New slideshow content."
-$ git push
++++
 
-Done!
-```
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+![Tampilan Home](/assets/images/01-epormas-web-tampilan-awal.png)
+
++++
+
+![Tampilan Home](/assets/images/02-epormas-web-tampilan-awal.png)
+
++++
+
+@title[Tampilan Contoh Gallery]
+
+### <span class="gold">Gallery Foto</span>
+<span style="font-size:1.0em; color:white">(Contoh Kategori Saran Pelebaran Jembatan)</span>
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
-#VSLIDE
-Step 5. GET THE WORD OUT!
-```
-https://gitpitch.com/bantenprov/presentasi-online/$branch
-```
++++
+
+![Contoh Gallery Foto](/assets/images/03-epormas-web-contoh-galery-foto.png)
+
++++
+
+![Contoh Gallery Foto](/assets/images/04-epormas-web-contoh-galery-foto.png)
+
++++
+
+@title[Tampilan Map]
+
+### <span class="gold">Menu Map</span>
+
+<span style="font-size:1.0em; color:white">(Peta Laporan Warga Banten)</span>
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Map](/assets/images/05-epormas-web-map.png)
+
++++
+
+![Tampilan Map](/assets/images/06-epormas-web-map.png)
+
++++
+
+@title[Tampilan Tabel Laporan Warga]
+
+### <span class="gold">Menu Tabel Laporan Warga</span>
+<span style="font-size:1.0em; color:white">(Kolom Filter Untuk Pencarian: Kota, Kecamatan, Kelurahan, dan Kategori)</span>
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Tabel Laporan Warga](/assets/images/07-epormas-web-tabel-laporan-warga.png)
+
++++
+
+![Tampilan Tabel Laporan Warga](/assets/images/08-epormas-web-tabel-laporan-warga.png)
+
++++
+
+@title[Tampilan Buat Laporan warga]
+
+### <span class="gold">Menu Buat Laporan</span>
+<span style="font-size:1.0em; color:white">(Laporan Warga Banten)</span>
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Buat Laporan warga](/assets/images/10-epormas-web-buat-laporan-warga-banten.png)
+
++++
+
+![Tampilan Buat Laporan warga](/assets/images/11-epormas-web-buat-laporan-warga-banten.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-right]
+
 ---
 
-@title[Tips]
-## Tips!
-Untuk *best viewing experience*   
-tekan **F** key untuk fullscreen slideshow.
+@title[Epormas Android]
 
----
-@title[Slide Gambar]
-### Slide Gambar
-## [ Inline ]
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+## Epormas <span class="gold">Android</span>
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-right]
+
++++
+
+@title[Menu dan Cara Penggunaan]
+
+### <span class="gold">Menu dan Cara Penggunaan</span>
+
+- Dari Handphone pilih menu settings => Security => beri centang pada “Unknown sources”, pilih OK ketika ada peringatan keluar. |
+- Kembali ke menu home dan pilih aplikasi Playstore untuk mendownload. |
+- Pilih kotak pencarian dengan menulis kata kunci Potret Banten atau enstra media,klik tombol download dan install. |
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
-#VSLIDE
-#### Membuat Visual konten
-Gunakan gambar untuk memberikan visualisasi di presentasi slideshow Anda.
-<span style="font-size:0.6em; color:gray">Contoh Gambar.</span>
++++
+
+@title[Tampilan Download, Install dan Registrasi]
+
+### <span class="gold">Download, Install dan Registrasi Aplikasi</span>
+
+<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
 @fa[arrow-down]
 
-#VSLIDE
++++
 
-```
-![contoh](/assets/image/gambar.jpg)
-```
-<br>
-![gambar](/assets/image/wps-office.png)
+@title[Tampilan Software Aplikasi]
 
----
+### <span class="gold">Download Aplikasi</span>
+<span style="font-size:1.0em; color:white">(Download Melalui Playstore dan Siap Untuk Di Install)</span>
 
-@title[slide Video]
-## Slides Video
-## [ Inline ]
-
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
 @fa[arrow-down]
 
-#VSLIDE
++++
 
-#### Jadikan Presentasi Anda Hidup
+![Aplikasi Android](/assets/images/27-epormas-android-install-apk.png)
 
-<br>
++++
 
-Pasang *YouTube*, *Vimeo*, *MP4* and *WebM* dalam slide Presentasi.
+@title[Tampilan Setelah Install Aplikasi]
 
-#VSLIDE
+### <span class="gold">Install Apikasi</span>
+<span style="font-size:1.0em; color:white">(Aplikasi Mulai Membaca device)</span>
 
-![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
-
-#VSLIDE
-
-![Vimeo Video](https://player.vimeo.com/video/125471012)
-
-#VSLIDE
-
-![MP4 Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
-
----
-## Slide Fragmen
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
 @fa[arrow-down]
 
-#VSLIDE
++++
 
-#### Mengungkapkan Konsep Slide Piecemeal
 
-<br>
-Step through slide content in sequence to slowly reveal the bigger picture.
-- Java
-- Groovy  
-- Kotlin   
-- Scala   
-- The JVM rocks!
+![Pertama Baca Device](/assets/images/28-epormas-android-awal-baca-device.png)
 
-#VSLIDE
-<table>
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Yogi</td>
-    <td>Hermawan</td>
-    <td>25</td>
-  </tr>
-   <tr>
-    <td>Kokoh</td>
-    <td>Aulia</td>
-    <td>94</td>
-  </tr>
-   <tr>
-    <td>Fery</td>
-    <td>Pratama</td>
-    <td>43</td>
-  </tr>
-</table>
----
-## Terimakasih
++++
+
+@title[Tampilan Setelah Install Aplikasi]
+
+### <span class="gold">Setelah Membaca Device</span>
+<span style="font-size:1.0em; color:white">(Aplikasi Tidak Menemukan Data)</span>
+
+<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Baca Device](/assets/images/29-epormas-android-baca-device.png)
+
++++
+
+@title[Tampilan Registrasi]
+
+### <span class="gold">Registrasi NIK</span>
+<span style="font-size:1.0em; color:white">(Sebelumnnya User Sudah Melakukan Registarsi Dengan NIK)</span>
+
+<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Registrasi NIK](/assets/images/30-epormas-android-registrasi-nik.png)
+
++++
+
+@title[Tampilan Registrasi]
+
+### <span class="gold">Registrasi Nomor Handphone</span>
+<span style="font-size:1.0em; color:white">(Sebelumnnya User Sudah Melakukan Registrasi Dengan Nomor Handphone)</span>
+
+<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Registrasi Nomor Handphone](/assets/images/31-epormas-android-registrasi-no-hp.png)
+
++++
+
+@title[Tampilan Registrasi]
+
+### <span class="gold">Registrasi Sekarang dan Upload Foto</span>
+<span style="font-size:1.0em; color:white">(User Belum Melakukan Registrasi)</span>
+
+<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Registrasi Sekarang](/assets/images/32-epormas-android-registrasi.png)
+
++++
+
+@title[Tampilan Registrasi]
+
+### <span class="gold">Upload Foto</span>
+
+<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Registrasi Upload Foto User](/assets/images/33-epormas-android-registrasi-upload-foto-user.png)
+
++++
+
+@title[Konten Menu]
+
+### <span class="gold">Tampilan Setelah Install Aplikasi</span>
+<span style="font-size:1.0em; color:white">(Terdapat Konten Menu)</span>
+
+<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Registrasi Upload Foto User](/assets/images/34-epormas-android-menu.png)
+
++++
+
+@title[Konten Menu]
+
+### <span class="gold">Menu Home</span>
+
+<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Menu Home](/assets/images/35-epormas-android-menu-home.png)
+
++++
+
+@title[Konten Menu]
+
+### <span class="gold">Menu Form Online</span>
+<span style="font-size:1.0em; color:white">(Contoh Kategori Jalan Raya)</span>
+
+<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Menu Form Online](/assets/images/36-epormas-android-form-online.png)
+
++++
+
+@title[Konten Menu]
+
+### <span class="gold">Menu Profile User</span>
+
+<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Menu Profile User](/assets/images/37-epormas-android-biodata.png)
+
++++
+
+@title[Konten Menu]
+
+### <span class="gold">Biodata User</span>
+
+<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Biodata User](/assets/images/38-epormas-android-profile-biodata.png)
+
++++
+
+@title[Konten Menu]
+
+### <span class="gold">Laporan User</span>
+
+<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Laporan User](/assets/images/39-epormas-android-profil-laporan.png)
+
++++
+
+@title[Konten Menu]
+
+### <span class="gold">Menu Semua Laporan</span>
+
+<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Menu Semua Laporan](/assets/images/40-epormas-android-menu-semua-laporan.png)
+
++++
+
+@title[Konten Menu]
+
+### <span class="gold">Menu Draf</span>
+
+<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Menu Draft](/assets/images/41-epormas-android-draft.png)
+
++++
+
+@title[Konten Menu]
+
+### <span class="gold">Menu Form Offline</span>
+<span style="font-size:1.0em; color:white">(Contoh Kategori Jalan Raya)</span>
+
+<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Menu Offline](/assets/images/42-epormas-android-form-offline.png)
+
++++
+
+@title[Konten Menu]
+
+### <span class="gold">Menu Social Media</span>
+
+<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Menu Social Media](/assets/images/43-epormas-android-socialmedia.png)
+
++++
+
+
+
+### SEKIAN
+# Dinas <span class="gold">KominfoST</span>
+## &
+## Banten<span class="gold">Prov</span>
