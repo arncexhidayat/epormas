@@ -56,7 +56,7 @@ Dengan <span class="gold">Bangga</span> <span class="aside">Mempersembahkan</spa
 ### <span class="gold">Menu dan Cara Penggunaan</span>
 
 - Untuk mengakses Aplikasi Epormas web, dengan cara membuka browser IE, Mozilla Firefox atau yang lainnya dengan menulis url 
-  http://epormas-01.dev.bantenprov.go.id sehingga akan menampilkan konten menu.
+  http://epormas-01.dev.bantenprov.go.id sehingga akan menampilkan.
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
@@ -83,7 +83,7 @@ Dengan <span class="gold">Bangga</span> <span class="aside">Mempersembahkan</spa
 @title[Tampilan Contoh Gallery]
 
 ### <span class="gold">Gallery Foto</span>
-<span style="font-size:1.0em; color:white">(Contoh Kategori Saran Pelebaran Jembatan)</span>
+<span style="font-size:0.8em; color:white">(Contoh Kategori Saran Pelebaran Jembatan)</span>
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
@@ -106,7 +106,7 @@ Dengan <span class="gold">Bangga</span> <span class="aside">Mempersembahkan</spa
 
 ### <span class="gold">Menu Map</span>
 
-<span style="font-size:1.0em; color:white">(Peta Laporan Warga Banten)</span>
+<span style="font-size:0.8em; color:white">(Peta Laporan Warga Banten)</span>
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
@@ -124,7 +124,7 @@ Dengan <span class="gold">Bangga</span> <span class="aside">Mempersembahkan</spa
 @title[Tampilan Tabel Laporan Warga]
 
 ### <span class="gold">Menu Tabel Laporan Warga</span>
-<span style="font-size:1.0em; color:white">(Kolom Filter Untuk Pencarian: Kota, Kecamatan, Kelurahan, dan Kategori)</span>
+<span style="font-size:0.8em; color:white">(Kolom Filter Untuk Pencarian: Kota, Kecamatan, Kelurahan, dan Kategori)</span>
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
@@ -142,7 +142,7 @@ Dengan <span class="gold">Bangga</span> <span class="aside">Mempersembahkan</spa
 @title[Tampilan Buat Laporan warga]
 
 ### <span class="gold">Menu Buat Laporan</span>
-<span style="font-size:1.0em; color:white">(Laporan Warga Banten)</span>
+<span style="font-size:0.8em; color:white">(Laporan Warga Banten)</span>
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
@@ -194,7 +194,7 @@ Dengan <span class="gold">Bangga</span> <span class="aside">Mempersembahkan</spa
 @title[Tampilan Software Aplikasi]
 
 ### <span class="gold">Download Aplikasi</span>
-<span style="font-size:1.0em; color:white">(Download Melalui Playstore dan Siap Untuk Di Install)</span>
+<span style="font-size:0.8em; color:white">(Download Melalui Playstore dan Siap Untuk Di Install)</span>
 
 <span style="font-size:0.6em; color:gray">Lanjutannya...</span>
 @fa[arrow-down]
@@ -208,7 +208,7 @@ Dengan <span class="gold">Bangga</span> <span class="aside">Mempersembahkan</spa
 @title[Tampilan Setelah Install Aplikasi]
 
 ### <span class="gold">Install Apikasi</span>
-<span style="font-size:1.0em; color:white">(Aplikasi Mulai Membaca device)</span>
+<span style="font-size:0.8em; color:white">(Aplikasi Mulai Membaca device)</span>
 
 <span style="font-size:0.6em; color:gray">Lanjutannya...</span>
 @fa[arrow-down]
@@ -223,7 +223,7 @@ Dengan <span class="gold">Bangga</span> <span class="aside">Mempersembahkan</spa
 @title[Tampilan Setelah Install Aplikasi]
 
 ### <span class="gold">Setelah Membaca Device</span>
-<span style="font-size:1.0em; color:white">(Aplikasi Tidak Menemukan Data)</span>
+<span style="font-size:0.8em; color:white">(Aplikasi Tidak Menemukan Data)</span>
 
 <span style="font-size:0.6em; color:gray">Lanjutannya...</span>
 @fa[arrow-down]
@@ -237,7 +237,7 @@ Dengan <span class="gold">Bangga</span> <span class="aside">Mempersembahkan</spa
 @title[Konten Menu]
 
 ### <span class="gold">Tampilan Setelah Install Aplikasi</span>
-<span style="font-size:1.0em; color:white">(Terdapat Konten Menu)</span>
+<span style="font-size:0.8em; color:white">(Terdapat Konten Menu)</span>
 
 <span style="font-size:0.6em; color:gray">Lanjutannya...</span>
 @fa[arrow-down]
@@ -251,7 +251,7 @@ Dengan <span class="gold">Bangga</span> <span class="aside">Mempersembahkan</spa
 @title[Konten Menu]
 
 ### <span class="gold">Menu Form Online</span>
-<span style="font-size:1.0em; color:white">(Contoh Kategori Jalan Raya)</span>
+<span style="font-size:0.8em; color:white">(Contoh Kategori Jalan Raya)</span>
 
 <span style="font-size:0.6em; color:gray">Lanjutannya...</span>
 @fa[arrow-down]
@@ -330,7 +330,7 @@ Dengan <span class="gold">Bangga</span> <span class="aside">Mempersembahkan</spa
 @title[Konten Menu]
 
 ### <span class="gold">Menu Form Offline</span>
-<span style="font-size:1.0em; color:white">(Contoh Kategori Jalan Raya)</span>
+<span style="font-size:0.8em; color:white">(Contoh Kategori Jalan Raya)</span>
 
 <span style="font-size:0.6em; color:gray">Lanjutannya...</span>
 @fa[arrow-down]
