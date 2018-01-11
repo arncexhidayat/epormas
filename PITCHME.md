@@ -183,7 +183,7 @@
 
 @title[Tampilan Epormas Android]
 
-### <span class="gold">Epormas Android</span>
+### <span class="gold">Tampilan Epormas Android</span>
 
 <span style="font-size:0.6em; color:gray">Lanjutannya...</span>
 @fa[arrow-down]
@@ -194,38 +194,9 @@
 
 +++
 
-@title[Tampilan Setelah Install Aplikasi]
-
-### <span class="gold">Install Apikasi</span>
-<span style="font-size:0.8em; color:white">(Aplikasi Mulai Membaca device)</span>
-
-<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
-@fa[arrow-down]
-
-+++
-
-
-![Pertama Baca Device](/assets/image/13-epormas-android-awal-baca-device.png)
-
-+++
-
-@title[Tampilan Setelah Install Aplikasi]
-
-### <span class="gold">Setelah Membaca Device</span>
-<span style="font-size:0.8em; color:white">(Aplikasi Tidak Menemukan Data)</span>
-
-<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
-@fa[arrow-down]
-
-+++
-
-![Baca Device](/assets/image/14-epormas-android-baca-device.png)
-
-+++
-
 @title[Konten Menu]
 
-### <span class="gold">Tampilan Setelah Install Aplikasi</span>
+### <span class="gold">Menu Kategori</span>
 <span style="font-size:0.8em; color:white">(Terdapat Konten Menu)</span>
 
 <span style="font-size:0.6em; color:gray">Lanjutannya...</span>
@@ -233,11 +204,19 @@
 
 +++
 
+![Menu Home](/assets/image/13-epormas-android-menu-home.png)
+
++++
+
+![Menu Home](/assets/image/14-epormas-android-menu-home.png)
+
++++
+
 ![Menu Home](/assets/image/15-epormas-android-menu-home.png)
 
 +++
 
-@title[Konten Menu]
+@title[Menu Form Online]
 
 ### <span class="gold">Menu Form Online</span>
 <span style="font-size:0.8em; color:white">(Contoh Kategori Jalan Raya)</span>
@@ -251,7 +230,11 @@
 
 +++
 
-@title[Konten Menu]
+![Menu Form Online](/assets/image/17-epormas-android-form-online.png)
+
++++
+
+@title[Menu Profile User]
 
 ### <span class="gold">Menu Profile User</span>
 
@@ -260,11 +243,15 @@
 
 +++
 
-![Menu Profile User](/assets/image/17-epormas-android-biodata.png)
+![Menu Profile User](/assets/image/18-epormas-android-biodata.png)
 
 +++
 
-@title[Konten Menu]
+![Menu Profile User](/assets/image/19-epormas-android-biodata.png)
+
++++
+
+@title[Menu Biodata User]
 
 ### <span class="gold">Biodata User</span>
 
@@ -273,11 +260,15 @@
 
 +++
 
-![Biodata User](/assets/image/18-epormas-android-profile-biodata.png)
+![Biodata User](/assets/image/20-epormas-android-profile-biodata.png)
 
 +++
 
-@title[Konten Menu]
+![Biodata User](/assets/image/21-epormas-android-profile-biodata.png)
+
++++
+
+@title[Menu Laporan]
 
 ### <span class="gold">Laporan User</span>
 
@@ -286,7 +277,7 @@
 
 +++
 
-![Laporan User](/assets/image/19-epormas-android-profil-laporan.png)
+![Laporan User](/assets/image/22-epormas-android-profil-laporan.png)
 
 +++
 
