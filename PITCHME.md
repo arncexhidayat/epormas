@@ -116,14 +116,9 @@
 
 +++
 
-![Tampilan Map](/assets/image/07-epormas-web-map.png)
-
-+++
-
 @title[Tampilan Tabel Laporan Warga]
 
 ### <span class="gold">Menu Tabel Laporan Warga</span>
-<span style="font-size:0.8em; color:white">(Kolom Filter Untuk Pencarian: Kota, Kecamatan, Kelurahan, dan Kategori)</span>
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
@@ -174,7 +169,6 @@
 
 - Dari Handphone pilih menu settings => Security => beri centang pada “Unknown sources”, pilih OK ketika ada peringatan keluar. |
 - Kembali ke menu home dan pilih aplikasi Playstore untuk mendownload. |
-- Pilih kotak pencarian dengan menulis kata kunci Potret Banten atau enstra media,klik tombol download dan install. |
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
@@ -232,7 +226,7 @@
 
 @title[Menu Profile User]
 
-### <span class="gold">Menu Profile Biodata User</span>
+### <span class="gold">Menu Profile</span>
 
 <span style="font-size:0.6em; color:gray">Lanjutannya...</span>
 @fa[arrow-down]
