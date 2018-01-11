@@ -230,54 +230,24 @@
 
 +++
 
-![Menu Form Online](/assets/image/17-epormas-android-form-online.png)
-
-+++
-
 @title[Menu Profile User]
 
-### <span class="gold">Menu Profile User</span>
+### <span class="gold">Menu Profile Biodata User</span>
 
 <span style="font-size:0.6em; color:gray">Lanjutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Menu Profile User](/assets/image/18-epormas-android-biodata.png)
+![Menu Profile User](/assets/image/18-epormas-android-profile-biodata.png)
 
 +++
 
-![Menu Profile User](/assets/image/19-epormas-android-biodata.png)
+![Menu Profile User](/assets/image/19-epormas-android-profile-biodata.png)
 
 +++
 
-@title[Menu Biodata User]
-
-### <span class="gold">Biodata User</span>
-
-<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
-@fa[arrow-down]
-
-+++
-
-![Biodata User](/assets/image/20-epormas-android-profile-biodata.png)
-
-+++
-
-![Biodata User](/assets/image/21-epormas-android-profile-biodata.png)
-
-+++
-
-@title[Menu Laporan]
-
-### <span class="gold">Laporan User</span>
-
-<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
-@fa[arrow-down]
-
-+++
-
-![Laporan User](/assets/image/22-epormas-android-profil-laporan.png)
+![Biodata User](/assets/image/20-epormas-android-profil-laporan.png)
 
 +++
 
@@ -290,7 +260,7 @@
 
 +++
 
-![Menu Semua Laporan](/assets/image/20-epormas-android-menu-semua-laporan.png)
+![Menu Semua Laporan](/assets/image/22-epormas-android-menu-semua-laporan.png)
 
 +++
 
@@ -303,7 +273,7 @@
 
 +++
 
-![Menu Draft](/assets/image/21-epormas-android-draft.png)
+![Menu Draft](/assets/image/25-epormas-android-draft.png)
 
 +++
 
@@ -317,7 +287,7 @@
 
 +++
 
-![Menu Offline](/assets/image/22-epormas-android-form-offline.png)
+![Menu Offline](/assets/image/26-epormas-android-form-offline.png)
 
 +++
 
@@ -330,11 +300,15 @@
 
 +++
 
-![Menu Social Media](/assets/image/23-epormas-android-socialmedia.png)
+![Menu Social Media](/assets/image/28-epormas-android-socialmedia.png)
 
 +++
 
-![Menu Social Media](/assets/image/24-epormas-android-socialmedia.png)
+![Menu Social Media](/assets/image/29-epormas-android-socialmedia.png)
+
++++
+
+![Menu Social Media](/assets/image/30-epormas-android-socialmedia.png)
 
 +++
 
