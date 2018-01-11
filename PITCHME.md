@@ -36,7 +36,7 @@
 
 ### <span class="gold">Tujuan Aplikasi Epormas</span>
 
-- Untuk mempermudah masyarakat Provinsi Banten dalam setiap pengaduan, seperti masalah Jalan Raya, Pendidikan, Jembatan, Pariwisata, Permukiman dan Lahan, Gedung dan Pemerintahan, Pemuda dan Olahraga, dan Kesehatan. |
+- Untuk mempermudah masyarakat Provinsi Banten dalam setiap pengaduan, seperti masalah <span class="gold">Jalan Raya, Pendidikan, Jembatan, Pariwisata, Permukiman dan Lahan, Gedung dan Pemerintahan, Pemuda dan Olahraga, Kesehatan</span> . |
 - Untuk mempermudah pemerintah Provinsi Banten dalam mengelola setiap pengaduan masyarakat. |
 
 ---
