@@ -191,7 +191,6 @@
 @title[Konten Menu]
 
 ### <span class="gold">Menu Home</span>
-<span style="font-size:0.8em; color:white">(Terdapat Konten Menu)</span>
 
 <span style="font-size:0.6em; color:gray">Lanjutannya...</span>
 @fa[arrow-down]
