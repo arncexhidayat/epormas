@@ -36,7 +36,7 @@
 
 ### <span class="gold">Tujuan Aplikasi Epormas</span>
 
-- Untuk mempermudah masyarakat Provinsi Banten dalam setiap pengaduan, seperti masalah <span class="gold">Jalan Raya, Pendidikan, Jembatan, Pariwisata, Permukiman dan Lahan, Gedung dan Pemerintahan, Pemuda dan Olahraga, Kesehatan</span>. |
+- Untuk mempermudah masyarakat Provinsi Banten dalam setiap pengaduan, seperti masalah Jalan Raya, Pendidikan, Jembatan, Pariwisata, Permukiman dan Lahan, Gedung dan Pemerintahan, Pemuda dan Olahraga, Kesehatan. |
 - Untuk mempermudah pemerintah Provinsi Banten dalam mengelola setiap pengaduan masyarakat. |
 
 ---
@@ -181,26 +181,16 @@
 
 +++
 
-@title[Tampilan Download, Install dan Registrasi]
+@title[Tampilan Epormas Android]
 
-### <span class="gold">Download, Install dan Registrasi Aplikasi</span>
-
-<span style="font-size:0.6em; color:gray">Lanjutannya...</span>
-@fa[arrow-down]
-
-+++
-
-@title[Tampilan Software Aplikasi]
-
-### <span class="gold">Download Aplikasi</span>
-<span style="font-size:0.8em; color:white">(Download Melalui Playstore dan Siap Untuk Di Install)</span>
+### <span class="gold">Epormas Android</span>
 
 <span style="font-size:0.6em; color:gray">Lanjutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Aplikasi Android](/assets/image/12-epormas-android-install-apk.png)
+![Aplikasi Android](/assets/image/12-epormas-android-awal-baca-device.png)
 
 +++
 
