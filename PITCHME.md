@@ -4,8 +4,7 @@
 ### &
 ### Banten<span class="gold">Dev</span>
 <br>
-Dengan <span class="gold">Bangga</span> <span class="aside">Mempersembahkan</span>
-
+<span class="gold">Dengan Bangga Mempersembahkan</span>
 ---
 
 @title[Introduction]
